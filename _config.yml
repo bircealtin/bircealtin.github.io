@@ -1,11 +1,11 @@
 title: "Birce Altın"                      #TODO: BLOG TITLE
-email: birceealtin@gmail.com              #TODO: BLOG EMAIL
+email:                                    #TODO: BLOG EMAIL
 description: "Birce Altın's personal blog" #TODO: BLOG DESCRIPTION
 timezone: UTC+2
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo60.png'
-favicon: 'assets/images/logo75.png'
+logo: 'assets/images/logo50.png'
+favicon: 'assets/images/logo60.png'
 author: Birce Altın
 paginate: 30
 locale: tr_TR
@@ -27,9 +27,9 @@ authors:
     name: Birce Altın
     display_name: Birce Altın
     avatar: 'assets/images/logo60.png'
-    email: birceealtin@gmail.com
+    email:
     web: "/about/"
-    twitter:
+    instagram:
     description:
 
 # Social
