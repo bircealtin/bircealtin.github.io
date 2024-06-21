@@ -1,6 +1,45 @@
-/* 
-Don't want to use sass and simply modify the stylesheet in the old css fashion? 
-Just customize your theme here.
-================================================== */
+/* Adjust the hero section */
+.hero {
+  background-color: #b1e2ffa3; 
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  margin-top: 50px; /* Ensure the hero section is pushed down */
+}
 
-body {}
+/* Responsive text and image adjustments */
+.hero h1 {
+  font-size: 2rem;
+}
+
+.hero p {
+  font-size: 1rem;
+}
+
+.hero .btn {
+  font-size: 0.875rem;
+}
+
+.hero .intro {
+  max-height: 200px; /* Reduce the image height */
+  width: 80%;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .hero h1 {
+    font-size: 2.7rem;
+  }
+
+  .hero p {
+    font-size: 1.225rem;
+  }
+
+  .hero .btn {
+    font-size: 1.2rem;
+  }
+
+  .hero .intro {
+    max-height: 500px;
+  }
+}

@@ -16,15 +16,11 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Anasayfa
   url: ""
 
-- title: Privacy Policy
+- title: Kişisel Veri ve Gizlilik Politikası
   url: "privacy-policy/"
 
-- title: Contact
+- title: İletişim
   url: "contact/"
-
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
-  external: true
