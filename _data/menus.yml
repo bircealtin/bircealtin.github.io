@@ -7,6 +7,9 @@ topmenu:
 - title: Hakkımızda
   url: "about/"
 
+- title: Yazılar
+  url: "categories/"
+
 - title: İletişim
   url: "contact/"
 

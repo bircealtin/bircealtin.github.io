@@ -1,16 +1,15 @@
-title: "Birce Altın"
-email: birceealtin@gmail.com
-description: "Birce Altın's personal blog"
+title: "Birce Altın"                      #TODO: BLOG TITLE
+email: birceealtin@gmail.com              #TODO: BLOG EMAIL
+description: "Birce Altın's personal blog" #TODO: BLOG DESCRIPTION
 timezone: UTC+2
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo75.png'
+logo: 'assets/images/logo60.png'
 favicon: 'assets/images/logo75.png'
 author: Birce Altın
 paginate: 30
-disqus: 'demowebsite'
-locale: en_us
-lang: en_us
+locale: tr_TR
+lang: tr_TR
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
@@ -27,9 +26,9 @@ authors:
   birc:
     name: Birce Altın
     display_name: Birce Altın
-    avatar:
+    avatar: 'assets/images/logo60.png'
     email: birceealtin@gmail.com
-    web:
+    web: "/about/"
     twitter:
     description:
 
