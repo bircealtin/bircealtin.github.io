@@ -4,8 +4,8 @@ description: "Birce Altın's personal blog"
 timezone: UTC+2
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+logo: 'assets/images/logo75.png'
+favicon: 'assets/images/logo75.png'
 author: Birce Altın
 paginate: 30
 disqus: 'demowebsite'
@@ -21,27 +21,26 @@ kramdown:
 sass:
   sass_dir: _sass
   style: compressed
-ganalytics: UA-113961478-1
 
 # Authors
 authors:
   birc:
     name: Birce Altın
     display_name: Birce Altın
-    avatar: 'assets/images/sal.png'
+    avatar:
     email: birceealtin@gmail.com
-    web: 
-    twitter: 
-    description: 
-  
+    web:
+    twitter:
+    description:
+
 # Social
 social:
-  instagram: 
-  facebook: 
-  twitter: 
+  instagram:
+  facebook:
+  twitter:
 
 # Plugins
-plugins: 
+plugins:
 - jekyll-paginate
 - jekyll-sitemap
 - jekyll-feed

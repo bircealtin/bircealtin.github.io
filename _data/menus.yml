@@ -1,15 +1,13 @@
-# TODO: Menü isimleri
-
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Anasayfa
   url: ""
 
-- title: About
+- title: Hakkımızda
   url: "about/"
 
-- title: Contact
+- title: İletişim
   url: "contact/"
 
 # Footer Menu
