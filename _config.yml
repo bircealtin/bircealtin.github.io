@@ -1,7 +1,7 @@
-title: "Birce Altın"                      #TODO: BLOG TITLE
-email:                                    #TODO: BLOG EMAIL
-description: "Birce Altın's personal blog" #TODO: BLOG DESCRIPTION
-timezone: UTC+2
+title: "Keşif Yapbozu"
+email: #TODO: BLOG EMAIL
+description: "Keşif Yapbozu" 
+timezone: Europe/Istanbul
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo50.png'
@@ -24,8 +24,8 @@ sass:
 # Authors
 authors:
   birc:
-    name: Birce Altın
-    display_name: Birce Altın
+    name: Keşif Yapbozu
+    display_name: Keşif Yapbozu
     avatar: 'assets/images/logo60.png'
     email:
     web: "/about/"
