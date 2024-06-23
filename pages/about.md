@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Hakkımızda
+title: Hakkımda
 permalink: "/about/"
 image: assets/images/modern_800.png
 ---
 
-Her çocuğun öğrenme yolculuğunun benzersiz olduğunu biliyoruz ve birbirimize destek olmanın ne kadar önemli olduğunu farkındayız. Bu yolda, öğrencilerle çevrimiçi olarak geçireceğimiz zamanı eğlenceli ve verimli bir öğrenme deneyimine dönüştürmeyi hedefliyoruz. Öğrencilerimizin okul derslerine destek olmanın ötesinde, onların ilgi duydukları konularda mini araştırmalar yaparak meraklarını daha da derinleştirmelerine yardımcı olacağız.
+Meraklı ve çeşitli alanlara ilgi duyan biriyim. Bir gün çocuk eğitimi üzerine yazarken, ertesi gün kendimi göçmenlik deneyimlerim üzerine düşünürken buluyorum. Bazen sadece fotoğraf çekmek için dışarı çıkıyorum, bazense uzun yürüyüşlere dalıyorum. Bu deneyimler bazen bir an, bazen bir yazı, bazen de bir fotoğraf olarak geri dönüyor ve arşivleniyor. Artık bunları sadece arşivlemek yerine paylaşmaya karar verdim. 
 
-Öğrencilerin kendi hızlarında ve kendi yöntemleriyle öğrenmelerine olanak tanıyarak, her bireyin potansiyelini en üst düzeye çıkarmayı amaçlıyoruz. Onların ilgilerini çekecek projeler ve aktivitelerle, öğrenmeyi heyecan verici bir maceraya dönüştürmek istiyoruz. Hep birlikte, destekleyici ve sıcak bir topluluk oluşturup, bu topluluk içinde birbirimizden öğrenmenin tadını çıkaracağız.
-
-Gelin, keyifli ve merak dolu bir öğrenme yolculuğuna hep birlikte adım atalım. Bu yolda, her bir öğrencinin parlamasına ve kendini keşfetmesine katkıda bulunmak için sabırsızlanıyoruz!
+Blogumda gündelik yazılardan eğitim içeriklerine, eğitim konularından küçük gezilere kadar geniş bir yelpazede içerikler bulabileceksiniz. İçindeki bu çeşitlilik ve düzenlilik, belki de karmaşık gibi görünen yapısında bir denge sunacak. Yaşadığım bu karmaşık ve renkli yolculuğun bir yansıması olacak. Her yazı, her fotoğraf ve her an, bu yolculuğun bir parçası olarak sizinle buluşacak.
