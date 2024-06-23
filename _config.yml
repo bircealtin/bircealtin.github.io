@@ -21,6 +21,8 @@ sass:
   sass_dir: _sass
   style: compressed
 
+ganalytics: G-EQBF3RGLYB
+
 # Authors
 authors:
   birc:
