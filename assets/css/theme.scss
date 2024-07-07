@@ -613,3 +613,12 @@ span.navigation:before {
     transition: all 0.3s;
     opacity:.8;
 }
+
+@media (max-width: 768px) {
+    .layout-post {
+        font-size: 15px;
+    }
+    .posttitle {
+        font-size: 2em;
+    }
+}
