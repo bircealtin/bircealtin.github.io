@@ -2,7 +2,7 @@
 layout: post
 title: "Hamburg’un Büyülü Minyatür Dünyası"
 author: birc
-image: assets/images/mw_stadium_800.png
+image: assets/images/blog_miniatur_wunderland_cover_800.png
 categories: [Gezi]
 ---
 
@@ -45,6 +45,7 @@ Hemen yanında ise Copacabana Palace’ı görmek mümkündü. 1923'te açılı�
 </figure>
 
 </div>
+
 Şimdi fotoğrafını eklememiş olsam da bahsetmek istediğim birkaç yapı daha var. Salzburg yakınlarında, Oberndorf’ta bulunan Silent Night Chapel’ini de görme fırsatımız oldu. Burası, 1818 Noel arifesinde “Silent Night” şarkısının ilk kez seslendirildiği yer olarak biliniyor ve modelde bu tarihsel öneme sahip yapının her detayı titizlikle işlenmişti. Son olarak, Bavyera’daki Neuschwanstein Kalesi’nin modeline hayran kaldık. Orijinal planlarıyla inşa edilen bu model, 1:120 ölçeğinde ve tam 1911 adet karton parçasından oluşturulmuş. Gerçekliğe bu denli yakın bir çalışmayı görmek, bu minik dünyanın ne kadar büyük bir emekle yaratıldığını gösteriyordu. 
 
 Miniatur Wunderland, sadece bir sergi değil, aynı zamanda farklı kültürleri ve mimarileri bir arada deneyimleme fırsatı sunan bir mekân. Her köşesinde farklı bir hikâye ve tarih barındıran bu büyülü dünyayı keşfetmek, Hamburg’a yapılan her ziyaretin olmazsa olmazlarından biri olmalı. İçerdiği pek çok yapı ve her ayrıntısıyla görülmeye değer, büyüleyici bir yer olan Miniatur Wunderland’da geçirdiğimiz bu unutulmaz saatler, gerçekten de zamanın nasıl geçtiğini unutturdu. Eğer yolunuz Hamburg’a düşerse, siz de bu büyülü dünyayı keşfetmeyi ihmal etmeyin.
