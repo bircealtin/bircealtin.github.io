@@ -10,7 +10,7 @@ Gündelik dertlerden sıyrılmak için bir hafta sonumuzu Caspar David Friedrich
 
 <div align="center">
 <figure>
-    <img src="../assets/images/blog_caspar_david/1.jpg" alt="Caspar David Friedrich in His Studio" width="600" >
+    <img src="../assets/images/blog_caspar_david/1.jpg" alt="Caspar David Friedrich in His Studio" width="500" >
     <figcaption style="color: gray; font-size: 15px;">Caspar David Friedrich in His Studio</figcaption>
 </figure>
 </div>
@@ -19,7 +19,7 @@ Caspar David Friedrich deyince, 250 yıl önce doğmuş bir sanatçının derin 
 
 <div align="center">
 <figure>
-    <img src="../assets/images/blog_caspar_david/3.jpg" alt="Wanderer Above the Sea of Fog" width="600" >
+    <img src="../assets/images/blog_caspar_david/3.jpg" alt="Wanderer Above the Sea of Fog" width="500" >
     <figcaption style="color: gray; font-size: 15px;">Wanderer Above the Sea of Fog</figcaption>
 </figure>
 </div>
@@ -28,7 +28,7 @@ Doğayı seven Friedrich, sık sık doğada zaman geçirirmiş. Greifswald adlı
 
 <div align="center">
 <figure>
-    <img src="../assets/images/blog_caspar_david/4.jpg" alt="The Sea of Ice" width="600" >
+    <img src="../assets/images/blog_caspar_david/4.jpg" alt="The Sea of Ice" width="500" >
     <figcaption style="color: gray; font-size: 15px;">The Sea of Ice</figcaption>
 </figure>
 </div>
@@ -37,7 +37,7 @@ Friedrich’in eserlerinde bir diğer tema ise orman gibi, ait olmanın bir semb
 
 <div align="center">
 <figure>
-    <img src="../assets/images/blog_caspar_david/2.jpg" alt="Forest in Interior by Moonlight" width="600" >
+    <img src="../assets/images/blog_caspar_david/2.jpg" alt="Forest in Interior by Moonlight" width="500" >
     <figcaption style="color: gray; font-size: 15px;">Forest in Interior by Moonlight</figcaption>
 </figure>
 </div>
