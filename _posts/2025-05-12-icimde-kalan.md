@@ -2,6 +2,7 @@
 layout: post
 title: "İçimde Kalan"
 author: birc
+image: assets/images/IMG_1870.JPG
 categories: [Gündelik]
 ---
 

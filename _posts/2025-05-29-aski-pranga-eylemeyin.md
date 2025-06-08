@@ -2,6 +2,7 @@
 layout: post
 title: "Aşkı Pranga Eylemeyin"
 author: birc
+image: assets/images/E874DFB1-A408-4E51-A569-2D52AD38811E.JPG
 categories: [Gündelik]
 ---
 
