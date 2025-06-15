@@ -1,1 +1,1 @@
-TODO: Blog ismini belirten tek cümlelik bir README.
+yapbozogren.com 2025

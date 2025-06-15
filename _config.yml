@@ -1,6 +1,6 @@
-title: "Keşif Yapbozu"
+title: "YapBozÖğren"
 email: #TODO: BLOG EMAIL
-description: "Keşif Yapbozu" 
+description: "YapBozÖğren" 
 timezone: Europe/Istanbul
 baseurl: ""
 permalink: "/:title/"
