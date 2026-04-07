@@ -15,8 +15,11 @@ Bu ayların bir gününde, daha önce hiç gitmediğim, ilk anda insana kendini 
 Galiba insanın biraz okuması, biraz izlemesi, biraz da durmayı bilmesi gerekiyor. Çünkü kendimle baş başa kaldığımda düşüncelerim çoğalıyor, dallanıp budaklanıyor ve her düşünce, bir diğerinin gölgesini büyütüyor.
 
 Zaman zaman okuduklarımdan bazı cümleler içimde yankılanıyor:
+
 “Hayatında şarkıyla yürüyen asla hiçbir yerde kaybolmaz.”
-“Hayat, beklediğiniz şey gerçekleşmemekte ısrar ederken dikkatinizi dağıtmak için giriştiğiniz etkinliklerdi.”
+
+“Hayat, beklediğiniz şey gerçekleşmemekte ısrar ederken dikkatinizi dağıtmak için giriştiğiniz etkinliklerdir.”
+
 Ve bir umut gibi yükselen o diğer ses: “Hayat ummaktı. Hayat her şeydi…”
 
 Şimdi içimde yeni bir iklim var. Sessizce açan bir bahar gibi. Onun gerçekten bahar olmasını istiyorum ama olmazsa da bu yola çıkmış olmanın kendisi yeter. Belki de mesele varılacak yer değil, o yolda yürürken içimde taşıdığım o ince, kırılgan ama dirençli umuttur. Ve ben, ne olursa olsun, o umudu kaybetmemeyi seçeceğim.
