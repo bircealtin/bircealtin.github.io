@@ -2,7 +2,7 @@
 layout: post
 title: "Bir Mevsimlik İnsanlık Hali"
 author: birc
-image: assets/images/insanlik_hali.JPG
+image: assets/images/insanlik_hali_1.JPG
 categories: [Gündelik]
 ---
 
