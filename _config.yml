@@ -1,6 +1,6 @@
-title: "YapBozÖğren"
+title: "BircEra"
 email: #TODO: BLOG EMAIL
-description: "YapBozÖğren" 
+description: "BircEra" 
 timezone: Europe/Istanbul
 baseurl: ""
 permalink: "/:title/"
@@ -26,8 +26,8 @@ ganalytics: G-EQBF3RGLYB
 # Authors
 authors:
   birc:
-    name: Keşif Yapbozu
-    display_name: Keşif Yapbozu
+    name: bircera
+    display_name: bircera
     avatar: 'assets/images/logo60.png'
     email:
     web: "/about/"

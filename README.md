@@ -1,1 +1,1 @@
-yapbozogren.com 2025
+bircera.com 2026
