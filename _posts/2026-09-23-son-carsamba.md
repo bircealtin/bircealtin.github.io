@@ -2,7 +2,7 @@
 layout: post
 title: "Son Çarşamba"
 author: birc
-image: assets/images/son_carsamba.jpg
+image: assets/images/son_carsamba1.jpg
 categories: [Hikaye Öncülü]
 ---
 
