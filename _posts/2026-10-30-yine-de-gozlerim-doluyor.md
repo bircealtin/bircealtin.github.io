@@ -2,7 +2,7 @@
 layout: post
 title: "Yine de Gözlerim Doluyor"
 author: birc
-image: assets/images/Yine_de_gozlerim_doluyor.JPG
+image: assets/images/Yine_de_gozlerim_doluyor1.JPG
 categories: [Gündelik]
 ---
 
