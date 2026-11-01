@@ -3,7 +3,7 @@ layout: post
 title: "Caspar David Friedrich: Doğa ve İnsan Arasında"
 author: birc
 image: assets/images/blog_caspar_david_cover_800.jpg
-categories: [Gündelik]
+categories: [Gezi]
 ---
 
 Gündelik dertlerden sıyrılmak için bir hafta sonumuzu Caspar David Friedrich sergisine giderek geçirmeye karar verdik. Berlin’de her ayın ilk pazar günü, Museumsonntag olarak bilinen gün, çoğu müzeye giriş ücretsiz oluyor. Önceden bu müzelere online bilet almak mümkündü ancak artık çoğuna online bilet alınamıyor ve kapıda sıra bekleyerek giriliyor. Azimle yaklaşık 45 dakika sıra bekleyerek müzeye girmeyi başardık. Caspar David Friedrich’in resimlerini daha önce Dresden, Roma ve Hamburg’da görme şansım olmuştu. Ancak o zamanlar her sanat müzesini dikkatle gezemiyordum; sadece yüzeysel bir bakış attığımı hatırlıyorum. Bu sefer ise eserlere odaklanarak, her birini dikkatle inceledim. Friedrich’in büyülü dünyasında kaybolarak, doğanın derinliklerine yaptığı yolculuğa ortak oldum. Yeşil ağaçların umudu ve teselliyi ifade ettiği resimlerinde, ormanın içine süzülen büyülü ışığın etkisi altında, içimin tazelendiğini hissettim. Bu sergi, sadece bir sanat deneyimi değil, aynı zamanda bir yolculuktu benim için.
