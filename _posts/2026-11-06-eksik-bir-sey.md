@@ -2,7 +2,7 @@
 layout: post
 title: "Eksik Bir Şey"
 author: birc
-image: assets/images/eksikbirsey.jpg
+image: assets/images/blog_eksikbirsey.jpg
 categories: [Gündelik]
 ---
 
