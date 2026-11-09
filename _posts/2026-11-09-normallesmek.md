@@ -2,7 +2,7 @@
 layout: post
 title: "Normalleşmek"
 author: birc
-image: assets/images/Yine_de_gozlerim_doluyor1.JPG
+image: assets/images/normallesmek.JPG
 categories: [Hikaye Öncülü]
 ---
 
